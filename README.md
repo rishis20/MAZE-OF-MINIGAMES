@@ -1,4 +1,4 @@
-#MAZE OF MINIGAMES
+# MAZE OF MINIGAMES
 
 ## Members:
 Maposa Ngonidzashe, Pingali Divya, Shah Rishi Kalpesh, Tong Chun Shing, Wu Zinuo
@@ -109,5 +109,6 @@ Double Down: Double the initial bet in exchange for committing to stand after re
 6. If the player's first two cards are of the same value, they can split them into two separate hands. The bet is also doubled, and an additional card is dealt to each new hand. Rules about re-splitting or hitting on split Aces vary depending on the casino.
 
 7. After all players have made their decisions, the dealer reveals their hole card and plays their hand. Dealer's decisions are automatic and follow a simple rule: they must hit if their hand total is less than or equal to 16, and stand if it's 17 or higher.8. If the dealer busts, all remaining players win an amount equal to their bet. If the dealer doesn't bust, they pay any player with a higher hand total an amount equal to their bet, and collect the bet of any player with a lower hand total. If a player and the dealer have the same hand total, it is a push and the player's bet is returned.
+
 
 
